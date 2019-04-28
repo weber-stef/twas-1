@@ -1,0 +1,93 @@
+ADOBE INDESIGN - DRUCKANLEITUNGEN FÜR BELICHTUNGSBÜROBERICHT
+
+SATZDATEINAME: TwasPttch-StefanWruck.indd
+
+PACKDATUM: 26.04.2019 01:16
+Erstellungsdatum 25.04.2019
+Änderungsdatum: 26.04.2019
+
+AUFTRAGGEBER
+
+Firma: 
+Ansprechpartner: 
+Adresse: 
+
+
+
+
+
+Telefon: 
+Fax: 
+E-Mail: 
+
+BESONDERE ANWEISUNGEN UND ANDERE ANMERKUNGEN
+
+
+
+
+
+
+Externe Zusatzmodule 1
+
+INBOOKLET SE.4X.PLN
+
+
+Nicht deckende Objekte:Auf Seiten. zutr., 5
+
+SCHRIFTARTEN
+5 Schriftart(en) verwendet; 2 fehlend, 0 eingebettet, 0 unvollst., 0 geschützt
+
+Schriftarten verpackt
+- Name: Futura Md BT Medium; Typ: ???, Status: fehlend
+- Name: FuturaBT-MediumItalic; Typ: TrueType, Status: OK
+- Name: Impact (TT); Typ: ???, Status: fehlend
+- Name: LucidaSansUnicode; Typ: OpenType TrueType, Status: OK
+- Name: Verdana; Typ: OpenType TrueType, Status: OK
+
+
+FARBEN UND DRUCKFARBEN
+4 Prozessfarbe(n); 0 Volltonfarbe(n)
+
+- Name und Typ: Prozessfarbe Cyan; Winkel: 0,000; Linien/Zoll: 0,000
+- Name und Typ: Prozessfarbe Magenta; Winkel: 0,000; Linien/Zoll: 0,000
+- Name und Typ: Prozessfarbe Gelb; Winkel: 0,000; Linien/Zoll: 0,000
+- Name und Typ: Prozessfarbe Schwarz; Winkel: 0,000; Linien/Zoll: 0,000
+
+
+VERKNÜPFUNGEN UND BILDER
+(Nur fehlende & eingebettete Verknüpfungen)
+Verknüpfungen und Bilder: 2 Verknüpfung(en) gefunden; 0 geändert, 0 fehlend
+Bilder: 0 eingebettet, 2 verwenden RGB-Farbraum
+
+
+DRUCKEINSTELLUNGEN
+PPD: n. zutr., (HP LaserJet 1100 (MS))
+Druckausgabe: Drucker
+Anzahl der Exemplare: 1
+Druckbögen: Nein
+Gerade/Ungerade Seiten: Beides
+Seiten: Alle
+Probedruck: Nein
+Druckseite aufteilen: Ohne
+Skalieren: 100 %, 100 %
+Seitenposition: Oben links
+Ebenen drucken: Sichtbare und druckbare Ebenen
+Druckermarken: Ohne
+Anschnitt: 0 Zoll, 0 Zoll, 0 Zoll, 0 Zoll
+Farbe: Composite-RGB
+Überfüllungsmodus: Ohne
+Bilddaten senden: Optimierte Abtastauflösung
+OPI/DCS-Bildersetzung: Nein
+Seitenformat: A4
+Papierabmessungen: 210 mm x 297 mm
+Format: Hochformat
+Negativ: Nein
+Spiegelmodus: Aus
+
+
+DATEIPAKETLISTE
+
+1. TwasPttch-StefanWruck.indd; Typ: Adobe InDesign-Satzdatei; Größe: 1500K
+2. futura-medium-italic-bt.TTF; Typ: Schriftartendatei; Größe: 45K
+3. l_10646.ttf; Typ: Schriftartendatei; Größe: 317K
+4. verdana.ttf; Typ: Schriftartendatei; Größe: 186K
